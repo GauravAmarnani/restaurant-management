@@ -32,7 +32,7 @@ The Restaurant Management System is a comprehensive solution designed to streaml
 - Visualize profit margins and trends using charts.
 - Identify opportunities for cost optimization and revenue growth.
 
-## Screenshots
+## Screenshots (Foundation built in backend with minimal UI)
 
 ### Menu Management
 Home Screen:
